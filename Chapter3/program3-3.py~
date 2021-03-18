@@ -1,6 +1,0 @@
-#Think of your favorite mode of transportation, such as motorcycle
-# or a car, and make a list that stores several examples. User your list
-# to print a series of statements abou these items, such as "I would like to own a Honda motorcycle"
-
-transportlist = ['ford gt','amtrak','suzuki','nissan','septa']
-print('I would like to buy one day a ' + transportlist[0])
